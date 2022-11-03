@@ -1,4 +1,11 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿document.addEventListener('DOMContentLoaded', function () {
+    var btn = document.getElementById('btn__request');
+    var pizza = document.getElementsByClassName("section__request-form")[0];
+    console.log(pizza.className);
 
-// Write your JavaScript code.
+    btn.addEventListener('click', function (e) {
+        pizza.classList.remove('section__request-form');
+    });
+
+
+});

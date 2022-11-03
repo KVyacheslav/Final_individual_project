@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using WebSkillProfi.Interfaces;
 using WebSkillProfi.Models;
 
 namespace WebSkillProfi.Controllers
@@ -7,26 +8,29 @@ namespace WebSkillProfi.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IRequestData _requestData;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IRequestData requestData,ILogger<HomeController> logger)
         {
+            _requestData = requestData;
             _logger = logger;
         }
 
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        [HttpPost]
+        public IActionResult Index(Request request)
         {
-            return View();
-        }
+            if (ModelState.IsValid)
+            {
+                _requestData.Add(request);
+            }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
         }
     }
 }

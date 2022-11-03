@@ -1,22 +1,25 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebSkillProfi.Model
+namespace WebSkillProfi.Models
 {
     public class Request
     {
         [Key, Display(Name = "Номер заявки")]
         public int Id { get; set; }
 
-        [Required, Display(Name = "Время заявки")]
-        public DateTime Created { get; set; }
+        [Display(Name = "Время заявки")]
+        public DateTime Created { get; set; } = DateTime.Now;
 
         [Required, Display(Name = "Имя")]
-        public string Name{ get; set; }
+        public string Name { get; set; }
 
         [Required, Display(Name = "Текст заявки")]
         public string Message { get; set; }
 
-        [DataType(DataType.EmailAddress)]
+        [Display(Name = "Статус заявки")]
+        public string Status { get; set; } = "Получена";
+
+        [EmailAddress]
         [Required, Display(Name = "Контакты")]
         public string Contact { get; set; }
     }

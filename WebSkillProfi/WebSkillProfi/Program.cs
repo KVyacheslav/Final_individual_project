@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using WebSkillProfi.AuthApp;
+using WebSkillProfi.Data;
 using WebSkillProfi.DataContext;
+using WebSkillProfi.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,13 +15,20 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
         throw new InvalidOperationException("Строка подключения 'DefaultConnection' не найдена.")));
 });
 
-builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+builder.Services.AddTransient<IRequestData, RequestDataApi>();
+builder.Services.AddTransient<IServiceData, ServiceDataApi>();
+
+builder.Services.AddIdentity<User, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddDefaultTokenProviders();
 
 builder.Services.Configure<IdentityOptions>(options =>
 {
-    options.Password.RequiredLength = 6;
+    options.Password.RequiredLength = 5; 
+    options.Password.RequireDigit = false;
+    options.Password.RequireLowercase = false;
+    options.Password.RequireNonAlphanumeric = false;
+    options.Password.RequireUppercase = false;
 
     options.Lockout.MaxFailedAccessAttempts = 10;
     options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
@@ -48,6 +58,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

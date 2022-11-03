@@ -1,0 +1,44 @@
+﻿@model WebSkillProfi.AuthApp.UserLogin
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <title>SKillProfi - Login</title>
+</head>
+<body>
+    <div class="container">
+        <h3>Вход</h3>
+        
+        <form asp-action="Login" asp-antiforgery="true">
+            <div asp-validation-summary="ModelOnly"></div>
+
+            <div>
+                <input class="mb-3" asp-for="UserName" placeholder="Логин" />
+            </div>
+
+            <div>
+                <input class="mb-3" asp-for="Password" placeholder="Пароль" />
+            </div>
+
+            <div>
+                <button class="btn btn-primary" type="submit">Войти</button>
+            </div>
+        </form>
+
+        <div>
+            <a asp-action="Index" asp-controller="Home">Продолжить как Гость</a>
+        </div>
+        <div>
+            <a asp-action="Register" asp-controller="Account">Регистрация</a>
+        </div>
+    </div>
+</body>
+</html>
+

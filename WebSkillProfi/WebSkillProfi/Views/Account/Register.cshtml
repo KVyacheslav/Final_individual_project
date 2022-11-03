@@ -1,0 +1,48 @@
+﻿@model WebSkillProfi.AuthApp.UserRegistration
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <title>SKillProfi - Register</title>
+</head>
+<body>
+    <div class="container">
+        <h3>Регистрация</h3>
+
+        <form asp-action="Register" asp-antiforgery="true">
+            <div asp-validation-summary="ModelOnly"></div>
+
+            <div class="mb-3">
+                <input asp-for="UserName" placeholder="Логин" autofocus />
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="Password" placeholder="Пароль" />
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="ConfirmPassword" placeholder="Введите пароль еще раз" />
+            </div>
+
+            <div class="mb-3">
+                <select asp-for="Role" >
+                    <option value="@WebSkillProfi.Enums.RoleType.None" selected>None</option>
+                    <option value="@WebSkillProfi.Enums.RoleType.Admin">Admin</option>
+                </select>
+            </div>
+
+            <div>
+                <button class="btn btn-primary" type="submit">Зарегистрироваться</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+

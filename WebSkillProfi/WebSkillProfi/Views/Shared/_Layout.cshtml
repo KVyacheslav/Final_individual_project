@@ -1,49 +1,108 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html style="font-size: 16px;" lang="ru">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - WebSkillProfi</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/WebSkillProfi.styles.css" asp-append-version="true" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Главная</title>
+    <link rel="stylesheet" href="~/css/nicepage.css" media="screen">
+    <link rel="stylesheet" href="~/css/style.css" media="screen">
+    <link rel="stylesheet" href="~/css/media.css" media="screen">
+    <meta name="generator" content="Nicepage 4.20.1, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Главная">
+    <meta property="og:type" content="website">
 </head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">WebSkillProfi</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+<body data-home-page="index.html" data-home-page-title="Главная" class="u-body u-xl-mode" data-lang="ru">
+    <header class="u-header u-palette-1-base u-header" id="sec-c9af" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
+        <div class="u-clearfix u-sheet u-sheet-1">
+            <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="214" data-image-height="150">
+                <img src="images/header.svg" class="u-logo-image u-logo-image-1" data-image-width="80">
+            </a>
+            <nav data-position="" class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+                <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
+                    <a class="u-button-style u-custom-active-border-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link" href="#" style="padding: 2px 0px; font-size: calc(1em + 4px);">
+                        <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <defs>
+                                <symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;">
+                                    <rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect>
+                                    <rect y="13" width="16" height="2"></rect>
+                                </symbol>
+                            </defs>
+                        </svg>
+                    </a>
+                </div>
+                <div class="u-custom-menu u-nav-container">
+                    <ul class="u-nav u-unstyled u-nav-1">
+                        <li class="u-nav-item">
+                            <a class="u-active-white u-button-style u-nav-link u-palette-1-base u-text-active-black u-text-hover-white" asp-controller="Home" asp-action="Index" style="padding: 10px 20px;">Главная</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        <li class="u-nav-item">
+                            <a class="u-active-white u-button-style u-nav-link u-palette-1-base u-text-active-black u-text-hover-white" asp-controller="Services" asp-action="Index" style="padding: 10px 20px;">Услуги</a>
+                        </li>
+                        <li class="u-nav-item">
+                            <a class="u-active-white u-button-style u-nav-link u-palette-1-base u-text-active-black u-text-hover-white" href="projects.html" style="padding: 10px 20px;">Проекты</a>
+                        </li>
+                        <li class="u-nav-item">
+                            <a class="u-active-white u-button-style u-nav-link u-palette-1-base u-text-active-black u-text-hover-white" href="blog.html" style="padding: 10px 20px;">Блог</a>
+                        </li>
+                        <li class="u-nav-item">
+                            <a class="u-active-white u-button-style u-nav-link u-palette-1-base u-text-active-black u-text-hover-white" href="contacts.html" style="padding: 10px 20px;">Контакты</a>
                         </li>
                     </ul>
                 </div>
-            </div>
-        </nav>
+                <div class="u-custom-menu u-nav-container-collapse">
+                    <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+                        <div class="u-sidenav-overflow">
+                            <div class="u-menu-close"></div>
+                            <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2">
+                                <li class="u-nav-item"><a class="u-button-style u-nav-link" asp-controller="Home" asp-action="Index">Главная</a></li>
+                                <li class="u-nav-item"><a class="u-button-style u-nav-link" asp-controller="Services" asp-action="Index">Услуги</a></li>
+                                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="projects.html">Проекты</a></li>
+                                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="blog.html">Блог</a></li>
+                                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="contacts.html">Контакты</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+                </div>
+            </nav>
+            <img class="u-image u-image-default u-image-2" src="images/header.svg" alt="" data-image-width="1000" data-image-height="700">
+            <p class="u-text u-text-default u-text-1 header-text">
+                С НАМИ ЛЕГКО<br>
+            </p>
+        </div>
     </header>
-    <div class="container">
+
+
+    <div class="container-fluid">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2022 - WebSkillProfi - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-d43b">
+        <div class="u-clearfix u-sheet u-sheet-1">
+            <p class="u-small-text u-text u-text-variant u-text-1">Пример текста. Кликните, чтобы выбрать элемент "Текст".</p>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    <section class="u-backlink u-clearfix u-grey-80">
+        <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+            <span>Website Templates</span>
+        </a>
+        <p class="u-text">
+            <span>created with</span>
+        </p>
+        <a class="u-link" href="" target="_blank">
+            <span>Website Builder Software</span>
+        </a>.
+    </section>
+
+    <script class="u-script" type="text/javascript" src="~/js/jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="~/js/nicepage.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="~/js/site.js" defer=""></script>
 </body>
 </html>
+    
