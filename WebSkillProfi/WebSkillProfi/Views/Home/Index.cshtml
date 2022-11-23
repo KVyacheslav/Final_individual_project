@@ -1,19 +1,26 @@
-﻿@model Request
+﻿@using Newtonsoft.Json.Linq;
+@using static System.IO.File;
+@model Request
 @{
     ViewData["Title"] = "Home Page";
+    JObject jObject = JObject.Parse(ReadAllText("site.json"));
+    ViewBag.HomeHeroTitle = jObject["home"]?["hero_title"]?.ToString();
+    ViewBag.HomeHeroButton = jObject["home"]?["hero_button"]?.ToString();
+    ViewBag.HomeFormTitle = jObject["home"]?["form_title"]?.ToString();
 }
 
 <section class="u-align-center u-clearfix u-image u-section-1" src="" data-image-width="1400" data-image-height="644" id="sec-79e9">
     <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-align-left u-text u-text-body-alt-color u-text-default u-title u-text-1">
-            -КОНСУЛЬТИНГ<br>&nbsp; &nbsp; БЕЗ РЕГИСТРАЦ<span style="font-weight: 400;"></span>ИИ И СМС
+            @Html.Raw(ViewBag.HomeHeroTitle)
+            @*-КОНСУЛЬТИНГ<br>&nbsp; &nbsp; БЕЗ РЕГИСТРАЦ<span style="font-weight: 400;"></span>ИИ И СМС*@
         </h1>
-        <btn id="btn__request" class="u-active-palette-2-dark-1 u-border-none u-btn u-btn-round u-button-style u-palette-2-base u-radius-8 u-btn-1">Оставить заявку</btn>
+        <btn id="btn__request" class="u-active-palette-2-dark-1 u-border-none u-btn u-btn-round u-button-style u-palette-2-base u-radius-8 u-btn-1">@ViewBag.HomeHeroButton</btn>
     </div>
 </section>
 <section class="u-clearfix u-section-2 section__request-form" id="sec-3528">
     <div class="u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-text u-text-default u-text-1">Оставить заявки или задать вопрос</h2>
+        <h2 class="u-text u-text-default u-text-1">@ViewBag.HomeFormTitle</h2>
         <div class="u-form u-form-1">
             <form asp-controller="Home" asp-action="Index" method="post" class="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form" style="padding: 15px;" source="email" name="form">
                 <div asp-validation-summary="ModelOnly"></div>

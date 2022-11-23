@@ -45,7 +45,7 @@ namespace WebSkillProfi.Data
         {
             string json = await client.GetStringAsync(url);
 
-            return JsonConvert.DeserializeObject<IEnumerable<Service>>(json);
+            return JsonConvert.DeserializeObject<IEnumerable<Service>>(json).OrderByDescending(v => v.Id);
         }
 
         public async Task<Service> GetServiceById(int? id)

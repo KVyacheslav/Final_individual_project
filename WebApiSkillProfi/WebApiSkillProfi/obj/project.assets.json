@@ -3145,19 +3145,21 @@
   },
   "packageFolders": {
     "C:\\Users\\Vyacheslav\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vyacheslav\\Desktop\\Проект\\Final_individual_project1\\WebApiSkillProfi\\WebApiSkillProfi\\WebApiSkillProfi.csproj",
+      "projectUniqueName": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebApiSkillProfi\\WebApiSkillProfi\\WebApiSkillProfi.csproj",
       "projectName": "WebApiSkillProfi",
-      "projectPath": "C:\\Users\\Vyacheslav\\Desktop\\Проект\\Final_individual_project1\\WebApiSkillProfi\\WebApiSkillProfi\\WebApiSkillProfi.csproj",
+      "projectPath": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebApiSkillProfi\\WebApiSkillProfi\\WebApiSkillProfi.csproj",
       "packagesPath": "C:\\Users\\Vyacheslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vyacheslav\\Desktop\\Проект\\Final_individual_project1\\WebApiSkillProfi\\WebApiSkillProfi\\obj\\",
+      "outputPath": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebApiSkillProfi\\WebApiSkillProfi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Vyacheslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

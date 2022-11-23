@@ -1,0 +1,64 @@
+﻿@using Newtonsoft.Json.Linq
+@using static System.IO.File;
+@model IEnumerable<Contact>
+@{
+    ViewData["Title"] = "Contacts";
+    JObject jObject = JObject.Parse(ReadAllText("site.json"));
+    ViewBag.Tel = jObject["contants"]?["tel"]?.ToString();
+    ViewBag.TelFormat = jObject["contants"]?["tel_format"]?.ToString();
+    ViewBag.Fax = jObject["contants"]?["fax"]?.ToString();
+    ViewBag.FaxFormat = jObject["contants"]?["fax_format"]?.ToString();
+    ViewBag.Email = jObject["contants"]?["email"]?.ToString();
+}
+
+<section class="u-clearfix u-grey-5 u-section-5" id="sec-ed59">
+    <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+            <div class="u-layout">
+                <div class="u-layout-row">
+                    <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
+                        <div class="u-container-layout u-container-layout-1">
+                            <h2 class="u-text u-text-1">Контакты</h2>
+                            <p class="u-text u-text-2">168956, г. Москва ул. Симоновский Вал д.34</p>
+                            <a href="tel:@ViewBag.Tel" class="u-active-none u-btn u-button-style u-hover-none u-none u-text-hover-palette-1-base u-btn-1">
+                                <span class="u-icon u-text-palette-1-base">
+                                    <img src="~/img/contacts/tel.png" alt="">
+                                </span>&nbsp; @ViewBag.TelFormat
+                            </a>
+                            <a href="tel:@ViewBag.Fax" class="u-active-none u-btn u-button-style u-hover-none u-none u-text-hover-palette-1-base u-btn-2">
+                                <span class="u-file-icon u-icon u-text-palette-1-base">
+                                    <img src="~/img/contacts/fax.png" alt="">
+                                </span>&nbsp; @ViewBag.FaxFormat
+                            </a>
+                            <a href="mailto:@ViewBag.Email" class="u-active-none u-btn u-button-style u-hover-none u-none u-text-hover-palette-1-base u-btn-3">
+                                <span class="u-file-icon u-icon u-text-palette-1-base">
+                                    <img src="~/img/contacts/email.png" alt="">
+                                </span>&nbsp; @ViewBag.Email
+                            </a>
+                            <div class="u-social-icons u-spacing-10 u-social-icons-1">
+
+                                @foreach (var contact in Model)
+                                {
+                                    <a class="u-social-url" target="_blank" data-type="Custom" title="Youtube" href="@contact.Url">
+                                        <span class="u-file-icon u-icon u-social-custom u-social-icon u-text-palette-1-base u-icon-9">
+                                            <img style="width: 16px;" src="~/@contact.ImageUrl" alt="">
+                                        </span>
+                                    </a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                    <div class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
+                        <div class="u-container-layout u-container-layout-2">
+                            <div class="u-expanded u-grey-10 u-map">
+                                <div class="embed-responsive">
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2247.3335516153816!2d37.660704016045294!3d55.71795530214646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54b2ebc47c587%3A0x503a90d53553bd11!2z0YPQuy4g0KHQuNC80L7QvdC-0LLRgdC60LjQuSDQktCw0LssIDM0LCDQnNC-0YHQutCy0LAsIDExNTA4OA!5e0!3m2!1sru!2sru!4v1667555387242!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

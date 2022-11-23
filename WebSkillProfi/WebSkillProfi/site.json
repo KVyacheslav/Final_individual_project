@@ -1,7 +1,14 @@
 {
   "home": {
-    "home_hero_title": "-КОНСАЛТИНГ\n\t\tБЕЗ РЕГИСТРАЦИИ И СМС",
-    "home_hero_button": "ОСТАВИТЬ ЗАЯВКУ",
-    "home_form_title": "Оставить заявку или задать вопрос"
+    "hero_title": "-КОНСАЛТИНГ<br>&nbsp; &nbsp; БЕЗ РЕГИСТРАЦИИ И СМС",
+    "hero_button": "ОСТАВИТЬ ЗАЯВКУ",
+    "form_title": "Оставить заявку или задать вопрос"
+  },
+  "contants": {
+    "tel": "+12345678910",
+    "tel_format": "+1 (234) 567 8910",
+    "fax": "+12345678910",
+    "fax_format": "+1 (234) 567 8910",
+    "email": "service-desk@skillprofi.ru"
   }
 }

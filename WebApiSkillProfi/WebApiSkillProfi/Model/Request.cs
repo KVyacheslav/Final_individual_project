@@ -17,6 +17,9 @@ namespace WebApiSkillProfi.Model
         [Required, Display(Name = "Текст заявки")]
         public string Message { get; set; }
 
+        [Display(Name = "Статус заявки")]
+        public string Status { get; set; } = "Получена";
+
         [DataType(DataType.EmailAddress)]
         [Required, Display(Name = "Контакты")]
         public string Contact { get; set; }
@@ -30,6 +33,7 @@ namespace WebApiSkillProfi.Model
                 Created = new DateTime(0),
                 Name = "Null",
                 Message = "Заявка не найдена",
+                Status = "Null",
                 Contact = "Null"
             };
         }

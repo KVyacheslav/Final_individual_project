@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tvPeDGLFRz52rRDkiVqairg01tyfMTmOI1Ab0tOu1RDJMISjCyAFxE/Kax1drfIrZaeW2OgiA3uieSlk9NZX7Q==",
+  "dgSpecHash": "RsP/4/qeOgR40CxKVSMVR1JEqUXGCJ6xewv8Mv44cus5fTWFWf7KzjUiyscDNtYOi9abeOCMPA88ZRj6ffcJXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vyacheslav\\Desktop\\Проект\\Final_individual_project1\\WebApiSkillProfi\\WebApiSkillProfi\\WebApiSkillProfi.csproj",
+  "projectFilePath": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebApiSkillProfi\\WebApiSkillProfi\\WebApiSkillProfi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vyacheslav\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

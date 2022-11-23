@@ -17,6 +17,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 builder.Services.AddTransient<IRequestData, RequestDataApi>();
 builder.Services.AddTransient<IServiceData, ServiceDataApi>();
+builder.Services.AddTransient<IProjectData, ProjectDataApi>();
+builder.Services.AddTransient<IContactData, ContactDataApi>();
+builder.Services.AddTransient<IBlogData, BlogDataApi>();
 
 builder.Services.AddIdentity<User, IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
