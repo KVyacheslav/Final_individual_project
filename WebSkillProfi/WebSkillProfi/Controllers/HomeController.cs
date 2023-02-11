@@ -3,6 +3,7 @@ using WebSkillProfi.Interfaces;
 using WebSkillProfi.Models;
 using Newtonsoft.Json.Linq;
 using static System.IO.File;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebSkillProfi.Controllers
 {
@@ -11,7 +12,7 @@ namespace WebSkillProfi.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IRequestData _requestData;
 
-        public HomeController(IRequestData requestData,ILogger<HomeController> logger)
+        public HomeController(IRequestData requestData, ILogger<HomeController> logger)
         {
             _requestData = requestData;
             _logger = logger;
