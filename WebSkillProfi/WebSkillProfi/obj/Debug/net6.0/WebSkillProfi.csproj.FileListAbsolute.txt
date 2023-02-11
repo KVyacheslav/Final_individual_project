@@ -136,3 +136,8 @@ C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebS
 C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebSkillProfi\WebSkillProfi\obj\Debug\net6.0\WebSkillProfi.pdb
 C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebSkillProfi\WebSkillProfi\obj\Debug\net6.0\WebSkillProfi.genruntimeconfig.cache
 C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebSkillProfi\WebSkillProfi\obj\Debug\net6.0\ref\WebSkillProfi.dll
+C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebSkillProfi\WebSkillProfi\obj\Debug\net6.0\staticwebassets\msbuild.WebSkillProfi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebSkillProfi\WebSkillProfi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebSkillProfi.props
+C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebSkillProfi\WebSkillProfi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebSkillProfi.props
+C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebSkillProfi\WebSkillProfi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebSkillProfi.props
+C:\Users\Vyacheslav\Desktop\Skillbox\Проект\Final_individual_project1\WebSkillProfi\WebSkillProfi\obj\Debug\net6.0\staticwebassets.pack.json

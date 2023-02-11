@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XGIWYNFG/IIW3YQWAlF0ArcpjyfmaWb6gqju+r/vI2cnFvXunDsGkkeLOezJCir+J26eaB9MB9fL5kPEU15FsQ==",
+  "dgSpecHash": "g2N5B75M+T8pLpqUoczK+ruMxhxEk3zmnVo19kqJvmEwWc3vSw6XttchPiPvlYCv98p0JsZ/+3HOSzn+6rcZew==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\WebSkillProfi.csproj",
   "expectedPackageFiles": [
@@ -75,7 +75,11 @@
     "C:\\Users\\Vyacheslav\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\Vyacheslav\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\Vyacheslav\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\Vyacheslav\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Vyacheslav\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
   ],
   "logs": []
 }

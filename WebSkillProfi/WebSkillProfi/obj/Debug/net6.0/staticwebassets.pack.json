@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebSkillProfi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebSkillProfi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\css\\media.css",
+      "PackagePath": "staticwebassets\\css\\media.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\css\\nicepage - Копировать.css",
+      "PackagePath": "staticwebassets\\css\\nicepage - Копировать.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\css\\nicepage.css",
+      "PackagePath": "staticwebassets\\css\\nicepage.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\0fd3416c.jpeg",
+      "PackagePath": "staticwebassets\\images\\0fd3416c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\1384086-bd718940.png",
+      "PackagePath": "staticwebassets\\images\\1384086-bd718940.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\2099199-d6a2e14e.png",
+      "PackagePath": "staticwebassets\\images\\2099199-d6a2e14e.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\2111708-dab7a5f0.png",
+      "PackagePath": "staticwebassets\\images\\2111708-dab7a5f0.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\2502367-8822f2d4.png",
+      "PackagePath": "staticwebassets\\images\\2502367-8822f2d4.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\39699-40abd25a.png",
+      "PackagePath": "staticwebassets\\images\\39699-40abd25a.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\68f64b9d.jpeg",
+      "PackagePath": "staticwebassets\\images\\68f64b9d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\8ad73f3c.jpeg",
+      "PackagePath": "staticwebassets\\images\\8ad73f3c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\header.svg",
+      "PackagePath": "staticwebassets\\images\\header.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\hero.jpg",
+      "PackagePath": "staticwebassets\\images\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\images\\twitter.svg",
+      "PackagePath": "staticwebassets\\images\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\blogs\\image-0001.svg",
+      "PackagePath": "staticwebassets\\img\\blogs\\image-0001.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\blogs\\image-0002.svg",
+      "PackagePath": "staticwebassets\\img\\blogs\\image-0002.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\blogs\\image-0003.svg",
+      "PackagePath": "staticwebassets\\img\\blogs\\image-0003.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\blogs\\image-0004.svg",
+      "PackagePath": "staticwebassets\\img\\blogs\\image-0004.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\email.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\fax.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\fax.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\inst.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\inst.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\tel.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\tel.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\telegram.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\telegram.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\tw.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\tw.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\vk.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\vk.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\contacts\\youtube.png",
+      "PackagePath": "staticwebassets\\img\\contacts\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\header.svg",
+      "PackagePath": "staticwebassets\\img\\header.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\projects\\image-0001.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\image-0001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\projects\\image-0002.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\image-0002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\img\\projects\\image-0003.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\image-0003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\js\\nicepage.js",
+      "PackagePath": "staticwebassets\\js\\nicepage.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vyacheslav\\Desktop\\Skillbox\\Проект\\Final_individual_project1\\WebSkillProfi\\WebSkillProfi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebSkillProfi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebSkillProfi.props",
+      "PackagePath": "build\\WebSkillProfi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebSkillProfi.props",
+      "PackagePath": "buildMultiTargeting\\WebSkillProfi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebSkillProfi.props",
+      "PackagePath": "buildTransitive\\WebSkillProfi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
